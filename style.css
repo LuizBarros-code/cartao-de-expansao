@@ -4,6 +4,7 @@
 
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #39cce6;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -23,7 +24,7 @@ body{
     background-repeat: no-repeat;
     height: 80vh;
     border-radius: 50px;
-    color: #50cae5;
+    color: #fff;
     cursor: pointer;
     flex: 0.5;
     margin: 10px;
