@@ -16,6 +16,7 @@ body{
 .container{
     display: flex;
     width: 90vw;
+    color: #39cce6;
 }
 
 .painel{
